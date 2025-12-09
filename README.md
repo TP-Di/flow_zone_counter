@@ -2199,7 +2199,7 @@ We welcome feature requests! Please:
 
 ### Version History
 
-- **v1.0.0** (2024-11-16): Initial release
+- **v1.0.0** (2025-11-16): Initial release
   - Core features: Camera management, zone configuration, annotation, training
   - YOLOv8n + DeepSORT integration
   - React dashboard with analytics
